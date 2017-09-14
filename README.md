@@ -1,9 +1,8 @@
-# Creative Coding: OpenFrameworks / "Algorithmic Vision"
 # Student Work Repository
-## Parsons MFA Design and Technology, Fall 2017
+## Creative Coding: OpenFrameworks / "Algorithmic Vision"  <br/>Parsons MFA Design and Technology, Fall 2017
 
 This repository references the homework repos of each student in the [course](https://github.com/tyhenry/dt_openframeworks_f17) as submodules.  
-You can clone this repository to your openFrameworks root directory, and then open/run/edit the student applications in your IDE.
+You can clone this repository to your openFrameworks root directory, and then run/edit the student applications in your IDE.
 
 **To clone:**  
 
