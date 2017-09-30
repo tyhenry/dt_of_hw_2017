@@ -37,3 +37,6 @@
 [submodule "cheny533_dtOF_2017"]
 	path = cheny533_dtOF_2017
 	url = https://github.com/pinkisholifant/cheny533_dtOF_2017.git
+[submodule "my636_dtOF_2017"]
+	path = my636_dtOF_2017
+	url = https://github.com/yiqinma/my636_dtOF_2017.git
