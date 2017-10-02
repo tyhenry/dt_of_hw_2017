@@ -1,9 +1,11 @@
 # Student Work Repository
 ## [Creative Coding: OpenFrameworks / "Algorithmic Vision"](https://github.com/tyhenry/dt_openframeworks_f17)  <br/>Parsons MFA Design and Technology, Fall 2017
 
-This repo contains the homework repos of each student in the [course](https://github.com/tyhenry/dt_openframeworks_f17).  
-If you clone this repo to your openFrameworks root directory, you can run & edit the student apps in your IDE. 
-To rebuild an application for your system, use the Import button in OF Project Generator to open the app's project folder - then click Update > Open in IDE.
+This repo contains the homework repos of each student in the [course](https://github.com/tyhenry/dt_openframeworks_2017).  
+
+If you clone this repo into your openFrameworks root directory, you can build and run the student sketches in your IDE.  
+
+To rebuild an application for your system, use the `Import` button in OF Project Generator to open the app's project folder - then click `Update` > `Open in IDE`.
 
 **To clone this repo to your computer (with all "submodules" / linked repos), run:**  
 
@@ -28,4 +30,4 @@ git submodule update --remote
 
 **Course TA:** Neil, liuy602@newschool.edu
 
-All course material will be posted to GitHub repo [tyhenry/dt_openframeworks_2017](https://github.com/tyhenry/dt_openframeworks_f17).  
+All course material will be posted to GitHub repo [tyhenry/dt_openframeworks_2017](https://github.com/tyhenry/dt_openframeworks_2017).  
