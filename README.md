@@ -17,7 +17,7 @@ git clone --recursive https://github.com/tyhenry/dt_of_hw_2017.git
 **To update this repo on your computer, run:**  
 
 ```bash
-git submodule update --remote
+git submodule update
 ```
 
 ### Course information:
