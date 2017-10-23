@@ -22,10 +22,6 @@
 	path = shara107_mfaof_2017
 	url = https://github.com/abhi2good/shara107_mfaof_2017.git
 	branch = master
-[submodule "aggaa503_dtOF_2017"]
-	path = aggaa503_dtOF_2017
-	url = https://github.com/aakanksha503/aggaa503_dtOF_2017.git
-	branch = master
 [submodule "guoj038_dtOF_2017"]
 	path = guoj038_dtOF_2017
 	url = https://github.com/JunguGuo/guoj038_dtOF_2017.git
@@ -37,10 +33,6 @@
 [submodule "wuj643_dtOF_2017"]
 	path = wuj643_dtOF_2017
 	url = https://github.com/jacqswu/wuj643_dtOF_2017.git
-	branch = master
-[submodule "lloyn691_dtOF_2017"]
-	path = lloyn691_dtOF_2017
-	url = https://github.com/nikkiflo/lloyn691_dtOF_2017.git
 	branch = master
 [submodule "rojrc782_dtOF_2017"]
 	path = rojrc782_dtOF_2017
