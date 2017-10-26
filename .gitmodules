@@ -50,3 +50,7 @@
 	path = aggaa503_dtOF_2017
 	url = https://github.com/aakanksha503/aggaa503_dtOF_2017.git
 	branch = master
+[submodule "lloyn691_dtOF_2017"]
+	path = lloyn691_dtOF_2017
+	url = https://github.com/nikkiflo/lloyn691_dtOF_2017.git
+	branch = master
